@@ -1,4 +1,0 @@
-double click start.bat
-go to http://localhost:8000/
-dont go fullscreen else stuff goes bad
-enjoy!
