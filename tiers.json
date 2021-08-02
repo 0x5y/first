@@ -1,0 +1,422 @@
+[
+  {
+    "Name": "Common",
+    "ID": 0,
+    "Color": [
+      192,
+      192,
+      192
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Common",
+    "ID": 1,
+    "Color": [
+      192,
+      192,
+      192
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Uncommon",
+    "ID": 2,
+    "Color": [
+      63,
+      192,
+      63
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Rare",
+    "ID": 3,
+    "Color": [
+      255,
+      127,
+      0
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Epic",
+    "ID": 4,
+    "Color": [
+      192,
+      192,
+      32
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Legendary",
+    "ID": 5,
+    "Color": [
+      255,
+      16,
+      8
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Unique",
+    "ID": 6,
+    "Color": [
+      192,
+      127,
+      32
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Mythical",
+    "ID": 7,
+    "Color": [
+      0,
+      255,
+      127
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Divine",
+    "ID": 8,
+    "Color": [
+      255,
+      127,
+      127
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Almighty",
+    "ID": 9,
+    "Color": [
+      255,
+      192,
+      192
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Hydraulic",
+    "ID": 10,
+    "Color": [
+      160,
+      160,
+      10
+    ],
+    "RenewalProof": false,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "MC",
+    "ID": 11,
+    "Color": [
+      69,
+      252,
+      255
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Renewed",
+    "ID": 12,
+    "Color": [
+      0,
+      124,
+      124
+    ],
+    "RenewalProof": true,
+    "AscensionProof": false,
+    "LifeObtained": 100
+  },
+  {
+    "Name": "Adv. Renewal",
+    "ID": 13,
+    "Color": [
+      127,
+      255,
+      127
+    ],
+    "RenewalProof": true,
+    "AscensionProof": false,
+    "LifeObtained": 1000
+  },
+  {
+    "Name": "Shiny Renewal",
+    "ID": 14,
+    "Color": [
+      86,
+      173,
+      173
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 250
+  },
+  {
+    "Name": "Ultimate",
+    "ID": 15,
+    "Color": [
+      255,
+      255,
+      0
+    ],
+    "RenewalProof": true,
+    "AscensionProof": false,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Heavenly",
+    "ID": 16,
+    "Color": [
+      234,
+      234,
+      234
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 500
+  },
+  {
+    "Name": "Infernal",
+    "ID": 17,
+    "Color": [
+      127,
+      0,
+      0
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 500
+  },
+  {
+    "Name": "Renewal Compound",
+    "ID": 18,
+    "Color": [
+      65,
+      255,
+      125
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 500
+  },
+  {
+    "Name": "Evolved Renewal",
+    "ID": 19,
+    "Color": [
+      32,
+      190,
+      100
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 250
+  },
+  {
+    "Name": "Exclusive",
+    "ID": 20,
+    "Color": [
+      32,
+      0,
+      192
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Vintage",
+    "ID": 21,
+    "Color": [
+      23,
+      111,
+      255
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 25
+  },
+  {
+    "Name": "Exotic",
+    "ID": 22,
+    "Color": [
+      64,
+      255,
+      64
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 25
+  },
+  {
+    "Name": "Collectible",
+    "ID": 23,
+    "Color": [
+      127,
+      0,
+      255
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 10
+  },
+  {
+    "Name": "Corrupted",
+    "ID": 24,
+    "Color": [
+      44,
+      44,
+      44
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 500
+  },
+  {
+    "Name": "Forged",
+    "ID": 25,
+    "Color": [
+      155,
+      255,
+      0
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 750
+  },
+  {
+    "Name": "Mysterious",
+    "ID": 26,
+    "Color": [
+      255,
+      0,
+      255
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 10
+  },
+  {
+    "Name": "Ascended",
+    "ID": 27,
+    "Color": [
+      255,
+      200,
+      50
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 0
+  },
+  {
+    "Name": "Adv. Compound",
+    "ID": 28,
+    "Color": [
+      255,
+      127,
+      35
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 500
+  },
+  {
+    "Name": "Adv. Evolution",
+    "ID": 29,
+    "Color": [
+      16,
+      190,
+      50
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 250
+  },
+  {
+    "Name": "Artifact",
+    "ID": 30,
+    "Color": [
+      255,
+      0,
+      0
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 50
+  },
+  {
+    "Name": "Platform",
+    "ID": 31,
+    "Color": [
+      17,
+      255,
+      188
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 100
+  },
+  {
+    "Name": "Godly",
+    "ID": 32,
+    "Color": [
+      170,
+      47,
+      23
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 1000
+  },
+  {
+    "Name": "Ascended Renewal",
+    "ID": 33,
+    "Color": [
+      138,
+      255,
+      120
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 500
+  },
+  {
+    "Name": "Ascend Evo",
+    "ID": 34,
+    "Color": [
+      207,
+      160,
+      40
+    ],
+    "RenewalProof": true,
+    "AscensionProof": true,
+    "LifeObtained": 0
+  }
+]
